@@ -4,6 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&pause=1000&color=04921FFB&background=254E7B00&center=true&vCenter=true&width=435&lines=Hello+World+🌍;I'm+Athul;The+RoNiXx+CybSec;"/>
 </h1>
 
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
    
 <h1 align="center">💫 About Me: </h1>
 <h3 align="center">A passionate Peneteration Tester and CyberSecurity Enthusiast from Kerala  INDIA</h3>
@@ -17,7 +18,7 @@
 
  </div>
 
-______
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
 
 <h1 align="center"> 💻 Tech Stack: </h1>
 <br/>
@@ -28,11 +29,11 @@ ______
 
 <br/>
 
-_____
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
 
 <img align="center" alt="Hacking" width="1000" src="https://steamuserimages-a.akamaihd.net/ugc/2431257904741262239/5224F69217562A3C070E381FE3DAC295BCF5C9A8/?imw=512&imh=287&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-____
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
 
 <h2 align="center">📊 GitHub Stats:</h2> 
 <br>
@@ -46,6 +47,9 @@ ____
 <br/><br/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
+
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
+
 <br/>
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RoNiXxCybSeC0101&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
@@ -67,6 +71,7 @@ ____
 <br/>
 
 
-________
+![line.gif](https://raw.githubusercontent.com/king04aman/king04aman/refs/heads/main/assets/line.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
