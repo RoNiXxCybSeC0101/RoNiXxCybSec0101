@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitcount.itsvg.in/api?id=RoNiXxCybSeC0101&icon=0&color=12)](https://visitcount.itsvg.in"/>
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=30&pause=1000&color=04921FFB&background=254E7B00&center=true&vCenter=true&width=435&lines=Hello+World+🌍;I'm+Athul;The+RoNiXx+CybSec;"/>
@@ -45,17 +45,28 @@ ____
 
 <br/><br/>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+<br/>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=RoNiXxCybSeC0101&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RoNiXxCybSeC0101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h3 align="center">✍️ Random Dev Quote</h3>
+<br/>
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<br/>
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=RoNiXxCybSeC0101&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</div>
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RoNiXxCybSeC0101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=RoNiXxCybSeC0101&icon=0&color=12)](https://visitcount.itsvg.in)
+________
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
